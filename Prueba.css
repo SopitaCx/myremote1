@@ -1,0 +1,78 @@
+body{
+margin: 50px; 
+border-color: black;
+border-style: solid;
+border-width: 2px;
+padding: 20px;
+}
+
+
+h1{
+color: white; /* color de la letra */
+background: blue;
+text-align: center;
+.roboto-<uniquifier> 
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <50>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+"GRAD" 0;
+}
+
+.img-main {
+display: grid;
+
+
+
+
+}
+
+img{
+margin: auto;
+width: 200px;
+border-color: #000000;
+border-width: 3px;
+border-style: double;
+border-radius: 50%;
+
+}
+
+
+p {
+color: darkgreen;
+font-size 18px;
+}
+
+table {
+width: 100%;
+border-collapse collapse;
+margin-top: 20px
+
+}
+
+th, td{
+border: 1px solid #ddd;
+padding: 10px;
+text-align: left;
+
+}
+
+th {
+background-color: blue;
+color:white;
+text-align: center;
+}
+
+tr:nth-child(even) {
+background-color: red
+}
+
+tr:nth-child(odd) {
+background-color: orange
+}
+
+tr:hover {
+background-color: green
+}
