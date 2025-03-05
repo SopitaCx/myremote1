@@ -1,0 +1,40 @@
+body{
+margin: 50px; 
+border-color: blue;
+border-style: solid;
+border-width: 2px;
+padding: 20px;
+}
+
+
+h1{
+color: blue; /* color de la letra */
+background: Orange;
+text-align: center;
+.roboto-<uniquifier> 
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <50>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+"GRAD" 0;
+}
+
+.img-main {
+display: grid;
+
+
+
+
+}
+
+img{
+margin: auto;
+width: 200px;
+border-color: #000000;
+border-width: 3px;
+border-style: double;
+border-radius: 50%;
+
+}
