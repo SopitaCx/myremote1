@@ -1,0 +1,14 @@
+#miId {
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+}
+
+.miClase {
+   height: 200px;
+   width: 200px;
+  background-color: Lightcyan;
+
+    .claseNueva {
+   background-color: violet;
+}
