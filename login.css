@@ -1,0 +1,64 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Negro */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Contenedor del formulario */
+.login-container {
+    background-color: #1a2b4c; /* Azul Marino */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    width: 300px;
+    text-align: center;
+}
+
+/* Título */
+h1 {
+    color: #ffffff;
+}
+
+/* Grupos de formulario */
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+/* Etiquetas */
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+/* Campos de entrada */
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #000;
+}
+
+/* Botón de enviar */
+.submit-btn {
+    background-color: #002147; /* Azul Marino Oscuro */
+    color: #ffffff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.submit-btn:hover {
+    background-color: #003366;
+}
